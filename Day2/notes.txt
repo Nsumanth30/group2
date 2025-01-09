@@ -1,0 +1,5 @@
+syntax for functions
+function function_name(optional parameters){
+    //function statements
+}
+function_name(arguments);  ///call the function
